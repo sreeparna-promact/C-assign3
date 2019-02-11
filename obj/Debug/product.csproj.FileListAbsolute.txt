@@ -1,0 +1,7 @@
+C:\Users\sreeparna\Desktop\C# a1\product\product\bin\Debug\product.exe.config
+C:\Users\sreeparna\Desktop\C# a1\product\product\bin\Debug\product.exe
+C:\Users\sreeparna\Desktop\C# a1\product\product\bin\Debug\product.pdb
+C:\Users\sreeparna\Desktop\C# a1\product\product\obj\Debug\product.csprojAssemblyReference.cache
+C:\Users\sreeparna\Desktop\C# a1\product\product\obj\Debug\product.csproj.CoreCompileInputs.cache
+C:\Users\sreeparna\Desktop\C# a1\product\product\obj\Debug\product.exe
+C:\Users\sreeparna\Desktop\C# a1\product\product\obj\Debug\product.pdb
